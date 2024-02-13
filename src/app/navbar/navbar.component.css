@@ -1,0 +1,16 @@
+.navdemo{
+    background-color: #2C3E50;
+    height: 15vh;
+    font-size: large;
+    font-weight: 600;
+}
+
+.navLink{
+    background-color: #1ABC9C;
+    color: white;
+    border-radius: 4px;
+}
+
+.tt{
+    color: white;
+}

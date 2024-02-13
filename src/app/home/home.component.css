@@ -1,0 +1,35 @@
+.title i{
+    position: absolute;
+    bottom: 5%;
+    right: 49%;
+    /* background-color: yellowgreen; */
+}
+
+.title::before{
+    content: "";
+    width: 100px;
+    height: 5px;
+    position: absolute;
+    bottom: 0;
+    right: 40%;
+    background-color:white;
+}
+
+.title::after{
+    content: "";
+    width: 100px;
+    height: 5px;
+    position: absolute;
+    bottom: 0;
+    left: 40%;
+    background-color:white;
+}
+
+.img{
+    width: 20%;
+}
+
+.home{
+    color: white;
+    background-color: #1ABC9C;
+}
